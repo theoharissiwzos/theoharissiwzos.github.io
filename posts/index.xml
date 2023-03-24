@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on the SW Static Site.  Under the hand is the choices you can do</title>
+    <link>http://theoharissiwzos.github.io/posts/</link>
+    <description>Recent content in Posts on the SW Static Site.  Under the hand is the choices you can do</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2023 21:30:41 +0200</lastBuildDate><atom:link href="http://theoharissiwzos.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAMOUS CHAT BOT NAME LIST</title>
+      <link>http://theoharissiwzos.github.io/posts/famous/</link>
+      <pubDate>Fri, 24 Mar 2023 21:30:41 +0200</pubDate>
+      
+      <guid>http://theoharissiwzos.github.io/posts/famous/</guid>
+      <description>Siri - Apple&amp;rsquo;s virtual assistant for iOS devices
+Alexa - Amazon&amp;rsquo;s virtual assistant for Echo devices
+Cortana - Microsoft&amp;rsquo;s virtual assistant for Windows devices
+Google Assistant - Google&amp;rsquo;s virtual assistant for Android devices and Google Home
+Mitsuku - an award-winning chatbot that can hold intelligent conversations
+Xiaoice - a popular chatbot developed by Microsoft for Chinese speakers
+Replika - an AI companion chatbot designed to help users improve their mental health</description>
+    </item>
+    
+    <item>
+      <title>HISTORY OF CHAT BOTS</title>
+      <link>http://theoharissiwzos.github.io/posts/history/</link>
+      <pubDate>Fri, 24 Mar 2023 21:30:35 +0200</pubDate>
+      
+      <guid>http://theoharissiwzos.github.io/posts/history/</guid>
+      <description>The history of chatbots dates back to the mid-20th century. In 1950, computer scientist Alan Turing proposed a test to determine whether a machine could demonstrate intelligent behavior that was indistinguishable from that of a human. The test became known as the Turing test, and it inspired early research into the development of chatbots.
+The first chatbot, called ELIZA, was created in the 1960s by MIT computer scientist Joseph Weizenbaum. ELIZA was designed to simulate a psychotherapist and could hold rudimentary conversations with users.</description>
+    </item>
+    
+    <item>
+      <title>INFORMATIONS</title>
+      <link>http://theoharissiwzos.github.io/posts/info/</link>
+      <pubDate>Fri, 24 Mar 2023 21:30:29 +0200</pubDate>
+      
+      <guid>http://theoharissiwzos.github.io/posts/info/</guid>
+      <description>Author: Theoharis Siwzos P2018093
+Purpose: SW Exercise 6o
+Studies: Ionio University
+Mail: p18sioz@ionio.gr</description>
+    </item>
+    
+  </channel>
+</rss>
